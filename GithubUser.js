@@ -11,21 +11,4 @@ export class GithubUser {
         followers,
       }));
   }
-//   static async   search(data) {
-//   const response  = await (endpoint) //usando axios
-  
-//   if(!response.data) {
-//     throw new error( 'não há dados')
-//   }
-
-//   return response.data;
-// }
 }
-
-
-// user: {
-// "name"= "carol",
-// "email"= "a@b.c"
-// }
-
-// user.email
